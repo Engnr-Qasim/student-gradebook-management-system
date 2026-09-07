@@ -501,11 +501,10 @@ This project was developed as an **Open Ended Lab Project** for:
 
 **CSE102L — Computer Programming Lab**
 
-**Department of Computer Systems Engineering**
+**Department of Computer Systems Engineering,**
 **University of Engineering and Technology, Peshawar**
 
 **Semester:** Spring 2026
-**Class Section:** C
 
 ### Submitted By
 
@@ -559,7 +558,7 @@ Through the project, the following skills were strengthened:
 
 ### Muhammad Qasim Usman
 
-**Computer Systems Engineering**
+**Computer Systems Engineering,**
 **University of Engineering and Technology, Peshawar**
 
 > Built as an academic project demonstrating practical C++ programming, file handling, data structures, algorithms, and modular software design.
