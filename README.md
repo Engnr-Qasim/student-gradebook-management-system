@@ -172,12 +172,7 @@ The application uses the following grading scale:
 Since the system currently contains five equally weighted subjects, the overall GPA is calculated as:
 
 ```text
-Overall GPA =
-(CP Theory GPA
-+ Calculus GPA
-+ CA Theory GPA
-+ CP Lab GPA
-+ CA Lab GPA) / 5
+Overall GPA = (CP Theory GPA + Calculus GPA + CA Theory GPA + CP Lab GPA + CA Lab GPA) / 5
 ```
 
 ### Example
