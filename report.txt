@@ -1,0 +1,39 @@
+=========================================================
+          STUDENT MANAGEMENT SYSTEM REPORT
+=========================================================
+Class : BS Computer Systems Engineering
+Subjects : CP Theory, Calculus, CA Theory, CP Lab, CA Lab
+Date : ____________
+=========================================================
+
+Rank	Roll No	Name		GPA
+---------------------------------------------------------
+1	2488	Qasim_Usman	4
+2	2496	Kashaf_Younas	3.88
+3	2532	Abdul_Aziz	3.66
+4	2534	Amjid_Khan	3.58
+5	2354	hasan_usman	3.58
+6	2545	Furqan_Khan	3.06
+7	5432	laiba_khan	2.38
+8	2555	umar_khan	2.32
+9	2453	umar_Khan	2.24
+10	2455	inam_khan	1.38
+
+=========================================================
+SUMMARY
+=========================================================
+Class Average GPA : 3.008
+Highest GPA : 4 (Qasim_Usman)
+Lowest GPA : 1.38 (inam_khan)
+Students Failing Any Subject : 5
+Students Passed : 5
+Students Failed : 5
+
+=========================================================
+AT-RISK STUDENTS
+=========================================================
+2545	Furqan_Khan	GPA : 3.06
+5432	laiba_khan	GPA : 2.38
+2555	umar_khan	GPA : 2.32
+2453	umar_Khan	GPA : 2.24
+2455	inam_khan	GPA : 1.38

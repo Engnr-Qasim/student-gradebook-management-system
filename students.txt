@@ -1,0 +1,10 @@
+2488 Qasim_Usman 100 99 98 97 96
+2496 Kashaf_Younas 80 80 85 90 90
+2532 Abdul_Aziz 90 99 98 87 67
+2534 Amjid_Khan 90 89 79 78 76
+2354 hasan_usman 89 78 76 90 78
+2545 Furqan_Khan 90 87 76 89 6
+5432 laiba_khan 87 78 67 65 45
+2555 umar_khan 45 56 67 87 98
+2453 umar_Khan 78 65 77 5 67
+2455 inam_khan 45 65 67 65 25

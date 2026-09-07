@@ -1,0 +1,27 @@
+=========================================
+          STUDENT TRANSCRIPT
+=========================================
+
+University : UET Peshawar
+Program    : BS Computer Systems Engineering
+Semester   : 1st Semester
+-----------------------------------------
+
+Roll Number : 2488
+Name        : Qasim_Usman
+Rank        : 1
+Overall GPA : 4
+Percentage : 98%
+
+-----------------------------------------
+Subject		Marks	Grade
+-----------------------------------------
+CP theory	100	A
+Calculus	99	A
+CA theory	98	A
+CP lab	97	A
+CA lab	96	A
+
+-----------------------------------------
+Status : PASS
+=========================================
